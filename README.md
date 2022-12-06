@@ -1,2 +1,2 @@
 # Assets
-Assets I designed for personal projects.
+Assets for personal projects.
