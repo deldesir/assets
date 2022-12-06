@@ -1,2 +1,2 @@
 # Assets
-Assets for personal projects.
+Different sizes assets to test 
